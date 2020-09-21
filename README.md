@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is Week 1 of final project of the IBM Data science Professional Certificate
+This project is a part of the IBM Data science Professional Certificate
