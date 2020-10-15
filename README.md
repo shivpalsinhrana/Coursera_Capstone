@@ -1,5 +1,5 @@
 # Coursera_Capstone
-Accident severity prediction using the classification algorithm for Seattle city
+**Accident severity prediction using the classification algorithm for Seattle city**
 
 
 
